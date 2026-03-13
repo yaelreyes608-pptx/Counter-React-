@@ -1,0 +1,9 @@
+{
+  "name": "react-counter",
+  "version": "1.0.0",
+  "description": "Simple React counter",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
