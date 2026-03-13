@@ -1,9 +1,8 @@
 {
   "name": "react-counter",
   "version": "1.0.0",
-  "description": "Simple React counter",
-  "main": "server.js",
+  "private": true,
   "scripts": {
-    "start": "node server.js"
+    "start": "npx serve ."
   }
 }
